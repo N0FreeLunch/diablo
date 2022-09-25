@@ -8,4 +8,4 @@
 - 괴물의 독 면역이 파괴됨 (Monster Poison Immunity is Sundered) [[download d2i file](https://github.com/N0FreeLunch/diablo/raw/main/immunity_charm/pierce_poison_immunity.d2i)]
 
 ## 캐릭터 파일 다운로드
-- [[charater file download](https://github.com/N0FreeLunch/diablo/raw/main/immunity_charm/immun_charm_char.d2s)]
+- [[download charater file](https://github.com/N0FreeLunch/diablo/raw/main/immunity_charm/immun_charm_char.d2s)]
